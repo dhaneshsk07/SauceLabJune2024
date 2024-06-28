@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-28T03:55:09 IST" name="Suite" finished-at="2024-06-28T03:55:43 IST" duration-ms="34200">
+    <groups>
+    </groups>
+    <test started-at="2024-06-28T03:55:09 IST" name="Test" finished-at="2024-06-28T03:55:43 IST" duration-ms="34200">
+      <class name="SL_Suite.LoginPageTest">
+        <test-method is-config="true" signature="basicUrlRun()[pri:0, instance:SL_Suite.LoginPageTest@47874b25]" started-at="2024-06-28T03:55:09 IST" name="basicUrlRun" finished-at="2024-06-28T03:55:17 IST" duration-ms="8347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicUrlRun -->
+        <test-method signature="invalidCredentialCheck()[pri:0, instance:SL_Suite.LoginPageTest@47874b25]" started-at="2024-06-28T03:55:17 IST" name="invalidCredentialCheck" description="Test_02 Invalid credential" finished-at="2024-06-28T03:55:24 IST" duration-ms="6856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentialCheck -->
+        <test-method is-config="true" signature="clickLoginButton()[pri:0, instance:SL_Suite.LoginPageTest@47874b25]" started-at="2024-06-28T03:55:24 IST" name="clickLoginButton" finished-at="2024-06-28T03:55:26 IST" duration-ms="1658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginButton -->
+        <test-method is-config="true" signature="basicUrlRun()[pri:0, instance:SL_Suite.LoginPageTest@47874b25]" started-at="2024-06-28T03:55:26 IST" name="basicUrlRun" finished-at="2024-06-28T03:55:31 IST" duration-ms="5504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicUrlRun -->
+        <test-method signature="validCheck()[pri:0, instance:SL_Suite.LoginPageTest@47874b25]" started-at="2024-06-28T03:55:31 IST" name="validCheck" description="Test_03 valid credential" finished-at="2024-06-28T03:55:36 IST" duration-ms="4587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCheck -->
+        <test-method is-config="true" signature="clickLoginButton()[pri:0, instance:SL_Suite.LoginPageTest@47874b25]" started-at="2024-06-28T03:55:36 IST" name="clickLoginButton" finished-at="2024-06-28T03:55:36 IST" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginButton -->
+        <test-method is-config="true" signature="basicUrlRun()[pri:0, instance:SL_Suite.LoginPageTest@47874b25]" started-at="2024-06-28T03:55:36 IST" name="basicUrlRun" finished-at="2024-06-28T03:55:42 IST" duration-ms="6100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicUrlRun -->
+        <test-method signature="verifyLoginPageElements()[pri:1, instance:SL_Suite.LoginPageTest@47874b25]" started-at="2024-06-28T03:55:42 IST" name="verifyLoginPageElements" description="Test_01 Verify login page elements" finished-at="2024-06-28T03:55:43 IST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageElements -->
+        <test-method is-config="true" signature="clickLoginButton()[pri:0, instance:SL_Suite.LoginPageTest@47874b25]" started-at="2024-06-28T03:55:43 IST" name="clickLoginButton" finished-at="2024-06-28T03:55:43 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginButton -->
+      </class> <!-- SL_Suite.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
